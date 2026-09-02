@@ -18,5 +18,10 @@
     "@opentelemetry/sdk-trace-node": "^2.8.0",
     "axios": "https://npm.aikido.io/22fcc3f48182075db754f/axios@1.17.0-aikido.2",
     "express": "^5.2.1"
+  },
+  "overrides": {
+    "gaxios": {
+      "uuid": "https://npm.aikido.io/22fcc3f48182075db754f/uuid@9.0.1-aikido.4"
+    }
   }
 }
