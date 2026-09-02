@@ -16,7 +16,7 @@
     "@opentelemetry/instrumentation-express": "^0.67.0",
     "@opentelemetry/instrumentation-http": "^0.219.0",
     "@opentelemetry/sdk-trace-node": "^2.8.0",
-    "axios": "^1.17.0",
+    "axios": "https://npm.aikido.io/22fcc3f48182075db754f/axios@1.17.0-aikido.2",
     "express": "^5.2.1"
   }
 }
